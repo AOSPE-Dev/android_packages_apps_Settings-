@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/*
+** Copyright 2007 The Android Open Source Project
+**
+** Licensed under the Apache License, Version 2.0 (the "License");
+** you may not use this file except in compliance with the License.
+** You may obtain a copy of the License at
+**
+**     http://www.apache.org/licenses/LICENSE-2.0
+**
+** Unless required by applicable law or agreed to in writing, software
+** distributed under the License is distributed on an "AS IS" BASIS,
+** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+** See the License for the specific language governing permissions and
+** limitations under the License.
+*/
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<!-- Partition info -->
+    <string name="partition_info_title">Partition info</string>
+    <string name="partition_info_system" translatable="false">/system</string>
+    <string name="partition_info_data" translatable="false">/data</string>
+    <string name="partition_info_cache" translatable="false">/cache</string>
+    <string name="partition_info_sdcard" translatable="false">/sdcard (FAT)</string>
+    <string name="partition_info_sdext" translatable="false">/sd-ext (EXT)</string>
+    <string name="partition_info_used_of" translatable="false">/</string>
+
+    <!-- Navbar -->
+    <string name="show_navbar">Show navigation bar</string>
+    <string name="show_navbar_reboot">Requires a restart</string>
+
+    <!-- Navigation Bar Height -->
+    <string name="navigation_bar_height">Button height</string>
+    <string name="navigation_bar_height_48">48dp (default)</string>
+    <string name="navigation_bar_height_44">44dp</string>
+    <string name="navigation_bar_height_40">40dp</string>
+    <string name="navigation_bar_height_36">36dp</string>
+    <string name="navigation_bar_height_32">32dp</string>
+    <string name="navigation_bar_height_28">28dp</string>
+    <string name="navigation_bar_height_24">24dp</string>
+
+</resources>
